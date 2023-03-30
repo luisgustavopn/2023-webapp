@@ -1,6 +1,10 @@
 # pos Programação Orientada a Serviços
 Projeto de exemplo da disciplina de Programação Orientada a Serviço
 
+Luís Gustavo
+
+https://github.com/luisgustavopn
+
 ## Info
 Disciplina: pos Programação Orientada a Serviços
 
