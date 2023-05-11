@@ -1,18 +1,4 @@
 {
-<<<<<<< HEAD
-  "name": "2023-webapp",
-  "version": "1.0.0",
-  "description": "Projeto de exemplo da disciplina de Programação Orientada a Serviço",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "dependencies": {
-    "dotenv": "^16.0.3"
-=======
   "name": "webapp-tarefas",
   "private": true,
   "version": "0.0.0",
@@ -38,6 +24,5 @@
     "eslint-plugin-react-refresh": "^0.3.4",
     "typescript": "^5.0.2",
     "vite": "^4.3.2"
->>>>>>> react
   }
 }
